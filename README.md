@@ -8,3 +8,5 @@
 3.目前不支持多个按钮
 
 4.用法见demo
+
+原理及说明见博客：https://mp.weixin.qq.com/s/SoEiWSSq3TujoUL86xZK6Q
